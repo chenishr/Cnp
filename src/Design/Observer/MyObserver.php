@@ -1,9 +1,6 @@
 <?php
 namespace Design\Observer;
 
-use Design\Observer\Subject;
-use Design\Observer\Observer;
-
 class MyObserver extends Observer{
     private $name;
 

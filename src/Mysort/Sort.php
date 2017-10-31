@@ -1,6 +1,5 @@
 <?php
 namespace Mysort;
-use Mysort\SortInterface;
 
 /* 
  * 抽象类

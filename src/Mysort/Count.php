@@ -3,7 +3,6 @@
  * 计数排序
  */
 namespace Mysort;
-use Mysort\Sort;
 
 /*
  * 计数排序

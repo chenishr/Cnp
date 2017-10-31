@@ -1,6 +1,5 @@
 <?php
 namespace Mysort;
-use Mysort\Sort;
 
 /*
  * 插入排序

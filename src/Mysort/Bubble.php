@@ -1,6 +1,5 @@
 <?php
 namespace Mysort;
-use Mysort\Sort;
 
 /*
  * 冒泡排序

@@ -1,8 +1,6 @@
 <?php
 namespace Mysort;
 
-use Mysort\Sort;
-
 /*
  * 快速排序
  */

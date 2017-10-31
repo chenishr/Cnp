@@ -1,9 +1,6 @@
 <?php
 namespace Design\Observer;
 
-use Design\Observer\Subject;
-use Design\Observer\Observer;
-
 class MySubject extends Subject{
     private $name;
     // 需要被观察的内容

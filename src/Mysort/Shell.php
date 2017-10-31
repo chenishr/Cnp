@@ -1,6 +1,5 @@
 <?php
 namespace Mysort;
-use Mysort\Sort;
 
 /*
  * 希尔排序

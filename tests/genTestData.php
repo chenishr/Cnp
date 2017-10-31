@@ -1,5 +1,5 @@
 <?php
-define("COUNT",30000);
+define("COUNT",3000);
 
 $data = [];
 for($i = 0; $i < COUNT; $i ++){
